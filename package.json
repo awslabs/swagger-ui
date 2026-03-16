@@ -117,7 +117,7 @@
     "babel-plugin-module-resolver": "=4.1.0",
     "babel-plugin-transform-react-remove-prop-types": "=0.4.24",
     "body-parser": "=1.20.1",
-    "chromedriver": "^145.0.5",
+    "chromedriver": "^146.0.3",
     "cors": "^2.8.5",
     "cross-env": "=7.0.3",
     "css-loader": "=5.2.6",
